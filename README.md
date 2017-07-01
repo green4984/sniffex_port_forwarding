@@ -1,2 +1,3 @@
 # sniffex_port_forwarding
-use libpcap port forward
+Use libpcap port forward
+Currently just use for syslog, 514 port in linux.
